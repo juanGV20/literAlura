@@ -8,10 +8,10 @@ tambien almacenar esta informacion con Spring y JPA en una base de datos SQL, a 
 libros buscados y listar los autores vivos a partir de cierto año. 
 
 Funciones: 
-1- Buscar libros por titulo
-2- Listar libros buscados
-3- Listar autores buscados
-4- Listar libros a partir de cierto año
+*1- Buscar libros por titulo
+*2- Listar libros buscados
+*3- Listar autores buscados
+*4- Listar libros a partir de cierto año
 
 #CONTACTO 
 Para cualquier consulta, retroalimentacion o duda por favor enviar un email a j99600@hotmail.com
